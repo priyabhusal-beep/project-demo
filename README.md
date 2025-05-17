@@ -1,10 +1,11 @@
 # project-demo
+Author-Priya
 css design
 /* style.css */
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'https://github.com/priyabhusal-beep/project-demo/edit/main/README.mdPoppins', sans-serif;
   box-sizing: border-box;
 }
 
